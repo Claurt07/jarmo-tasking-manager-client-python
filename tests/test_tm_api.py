@@ -44,7 +44,7 @@ def test_v2_project_search_draft():
 
 # @vcr.use_cassette()
 # def test_v2_project_search_draft_archive_published():
-#     textSearch='covid'
+#     textSearch='gimvcovid'
 #     projectStatuses='DRAFT,ARCHIVED,PUBLISHED'
 #     result = pd.concat(
 #         tm.v2.project_search(
